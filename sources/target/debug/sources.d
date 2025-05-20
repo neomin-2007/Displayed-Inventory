@@ -1,0 +1,1 @@
+/home/neomin/Documentos/Programming\ Works/Rust/Display-Inventory/sources/target/debug/sources: /home/neomin/Documentos/Programming\ Works/Rust/Display-Inventory/sources/src/inventory.rs /home/neomin/Documentos/Programming\ Works/Rust/Display-Inventory/sources/src/main.rs
